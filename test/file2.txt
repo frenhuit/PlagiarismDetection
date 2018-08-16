@@ -1,0 +1,5 @@
+go for a jog
+In a tiling, every square must be covered by a tile. Two tilings are different if and only if there are two 4-directionally adjacent cells on the board such that exactly one of the tilings has both squares occupied by a tile
+I am a duck
+Python is a programming language
+S:/Dropbox/IntelliJProjects/PlagiarismDetectionMultiThread/test/syns.txt S:/Dropbox/IntelliJProjects/PlagiarismDetectionMultiThread/test/file1.txt S:/Dropbox/IntelliJProjects/PlagiarismDetectionMultiThread/test/file2.txt
